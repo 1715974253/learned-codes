@@ -1,0 +1,6 @@
+t1 = (10, 15, 30, 452)
+print(t1)
+print(t1[2])
+print(len(t1))
+print(t1.count(10))
+print(t1.index(452))

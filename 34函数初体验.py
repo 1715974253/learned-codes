@@ -1,0 +1,10 @@
+def sel_func():
+    print('显示余额')
+    print('存款')
+    print('取款')
+print('恭喜您登录成功')
+sel_func()
+print('您的余额是')
+sel_func()
+print('取了多少钱')
+sel_func()
